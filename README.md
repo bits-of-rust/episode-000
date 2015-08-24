@@ -1,7 +1,7 @@
 # episode-000
 Where we install Rust
 
-### Setup
+## Setup
 The following needs to be prepared:
 
 * a browser with the landing page for the [Rust][rust-lang] language.
