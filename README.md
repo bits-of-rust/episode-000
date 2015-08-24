@@ -13,7 +13,7 @@ In this screen cast we are going to install [Rust][rust-lang] onto our computer.
 
 The install button does a pretty good job of figuring out your environment, so go ahead and download the installer.
 
-If the download is finished run the installer. This will guide you through the process of setting up your system for [Rust][rust-lang]. You need to agree with the license before you can install, decide who is going to be able to use Rust on your system. For ease of use click through the installer and provide you administrator password.
+If the download is finished run the installer. This will guide you through the process of setting up your system for [Rust][rust-lang]. You need to agree with the license before you can install, decide who is going to be able to use Rust on your system. For ease of use click through the installer and provide your administrator password.
 
 After the installer has finished, open a terminal and verify that rust is installed correctly by typing the following command in your terminal.
 
@@ -26,6 +26,8 @@ You will be greated by a version number, a commit hash and a commit date
 ```
 rustc 1.2.0 (082e47636 2015-08-03)
 ```
+
+And there you have it, [Rust][rust-lang] is installed on your system.
 
 [rust-lang]: https://www.rust-lang.org/
 [installer]: https://static.rust-lang.org/dist/rust-1.2.0-x86_64-apple-darwin.pkg
